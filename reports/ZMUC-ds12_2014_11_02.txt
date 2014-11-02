@@ -1,0 +1,56 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-12 ; Times: 1
+	Date: 2014-10-16 ; Times: 1
+	Date: 2014-10-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "clyomys" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "speothos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 61
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 297
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 61
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 297
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
