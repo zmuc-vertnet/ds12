@@ -1,0 +1,59 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mastacalis genus:rhipidomys" ; Times: 1
+	Query: "genus:cabassous tatouay" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 298 download events in this period)
+Total number of records downloaded: 12 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 68
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 38
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 75
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 340
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
