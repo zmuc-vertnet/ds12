@@ -1,0 +1,62 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 41 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 19
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 68
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 79
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 75
+Number of download events that retrieved data from the resource: 40
+Total number of records downloaded: 381
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
