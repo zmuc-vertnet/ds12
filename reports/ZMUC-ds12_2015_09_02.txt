@@ -1,0 +1,101 @@
+Report for Institution Code ZMUC, Resource PVLund
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: China ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-09 ; Times: 2
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-27 ; Times: 3
+	Date: 2015-08-28 ; Times: 5
+	Date: 2015-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:velatus genus:Histiotus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: ""Cabassous unicinctus" mappable:1" ; Times: 1
+	Query: ""Euphractus sexcinctus" mappable:1" ; Times: 2
+	Query: ""Histiotus velatus" mappable:1" ; Times: 1
+	Query: "juscelinomys" ; Times: 1
+	Query: "year:1840" ; Times: 5
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "thalpomys" ; Times: 1
+	Query: "kunsia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1138 download events in this period)
+Total number of records downloaded: 247 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 88
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 1
+	Date: 2015-08-06 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-21 ; Times: 4
+	Date: 2015-08-24 ; Times: 3
+	Date: 2015-08-25 ; Times: 3
+	Date: 2015-08-26 ; Times: 2
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: ""Lasiurus ega" mappable:1" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: ""Phyllostomus hastatus" mappable:1" ; Times: 1
+	Query: ""Anoura caudifer" mappable:1" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "didelphidae" ; Times: 1
+	Query: ""Micronycteris megalotis" mappable:1" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "didelphis" ; Times: 1
+	Query: ""Molossops temminckii" mappable:1" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: ""Cabassous unicinctus" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 35
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 247
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 15
+Total number of records retrieved from searches: 35
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 247
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
