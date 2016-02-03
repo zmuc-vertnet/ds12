@@ -1,0 +1,47 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mummy" ; Times: 4
+	Query: "cabassous" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 823 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:primates" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+
+
+End of report.
