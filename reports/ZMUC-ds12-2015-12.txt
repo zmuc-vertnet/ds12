@@ -1,0 +1,43 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 5
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mummy" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 889 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ega genus:Lasiurus" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "carollia" ; Times: 1
+
+
+End of report.
