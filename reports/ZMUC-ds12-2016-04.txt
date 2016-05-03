@@ -1,0 +1,55 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mummy" ; Times: 19
+	Query: "skel family:dasypodidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1312 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "micronycteris" ; Times: 1
+
+
+End of report.
