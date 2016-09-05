@@ -1,0 +1,59 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 123
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "gbifdatasetid:84d8287e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "Cerdocyon thous brazil" ; Times: 1
+	Query: "kunsia" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 3
+	Query: "thalpomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 924 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+
+
+End of report.
