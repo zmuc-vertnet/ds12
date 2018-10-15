@@ -1,0 +1,66 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 17
+	Country: Italy ; Times: 1
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 4
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 3
+	Date: 2018-02-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "Phyllomys brasiliensis " ; Times: 1
+	Query: "vntype:specimen specificepithet:vetulus genus:Pseudalopex" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "gbifdatasetid:84d8287e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1892 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+
+
+End of report.
