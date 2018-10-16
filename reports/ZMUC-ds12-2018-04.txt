@@ -1,0 +1,69 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: United States ; Times: 21
+	Country: France ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-23 ; Times: 16
+	Date: 2018-04-27 ; Times: 5
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Marmosops specificepithet:incanus mappable:1" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "genus:Thalpomys specificepithet:lasiotis mappable:1" ; Times: 2
+	Query: "genus:Cabassous specificepithet:tatouay mappable:1" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "genus:Carterodon specificepithet:sulcidens mappable:1" ; Times: 1
+	Query: "genus:Cerdocyon specificepithet:thous mappable:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:cursor mappable:1" ; Times: 1
+	Query: "genus:Calomys specificepithet:tener mappable:1" ; Times: 1
+	Query: "genus:Kunsia specificepithet:tomentosus mappable:1" ; Times: 1
+	Query: "genus:Rhipidomys specificepithet:mastacalis mappable:1" ; Times: 1
+	Query: "genus:Cabassous specificepithet:unicinctus mappable:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:hybridus mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "genus:Speothos specificepithet:venaticus mappable:1" ; Times: 2
+	Query: "genus:Euphractus specificepithet:sexcinctus mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:albiventris mappable:1" ; Times: 1
+	Query: "genus:Clyomys specificepithet:laticeps mappable:1" ; Times: 1
+	Query: "genus:Callicebus specificepithet:personatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1359 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Speothos" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+
+
+End of report.
