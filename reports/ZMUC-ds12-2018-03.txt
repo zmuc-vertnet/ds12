@@ -1,0 +1,74 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 254
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Unknown ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: France ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 8
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-19 ; Times: 5
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-04 ; Times: 3
+	Date: 2018-03-05 ; Times: 4
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-26 ; Times: 11
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-27 ; Times: 11
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "echimys" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:ega" ; Times: 2
+	Query: "genus:Speothos specificepithet:venaticus" ; Times: 5
+	Query: "genus:Marmosops specificepithet:incanus" ; Times: 5
+	Query: "specificepithet:venaticus genus:Speothos" ; Times: 1
+	Query: "genus:Dasypus specificepithet:hybridus" ; Times: 5
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 5
+	Query: "genus:Cabassous specificepithet:unicinctus" ; Times: 5
+	Query: "genus:Nectomys specificepithet:squamipes" ; Times: 2
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "genus:Anoura specificepithet:caudifer" ; Times: 2
+	Query: "genus:Callicebus specificepithet:personatus" ; Times: 6
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "genus:Molossops specificepithet:temminckii" ; Times: 5
+	Query: "genus:Pygoderma specificepithet:bilabiatum" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1284 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
