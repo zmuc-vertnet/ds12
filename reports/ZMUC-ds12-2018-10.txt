@@ -1,0 +1,50 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 8
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:laticeps genus:Clyomys" ; Times: 4
+	Query: "genus:clyomys" ; Times: 1
+	Query: "genus:Clyomys" ; Times: 1
+	Query: "specificepithet:expulsus genus:Calomys" ; Times: 2
+	Query: "specificepithet:tomentosus genus:Kunsia" ; Times: 3
+	Query: "specificepithet:mastacalis genus:Rhipidomys" ; Times: 1
+	Query: "Thalpomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1300 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+
+
+End of report.
