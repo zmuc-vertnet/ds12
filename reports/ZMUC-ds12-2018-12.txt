@@ -1,0 +1,52 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-29 ; Times: 14
+	Date: 2018-12-05 ; Times: 5
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 4
+	Query: "Thylamys pusillus" ; Times: 14
+	Query: "cerdocyon thous mappable:1" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "genus:Cabassous" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 809 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+
+
+End of report.
