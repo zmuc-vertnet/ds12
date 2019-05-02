@@ -1,0 +1,59 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cabassous" ; Times: 2
+	Query: "brazil vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 2
+	Query: "Cerdocyon thous mappable:1" ; Times: 1
+	Query: "Cabassous unicinctus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "Thalpomys" ; Times: 4
+	Query: "Brazil vntype:specimen genus:Speothos family:Canidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1281 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+
+
+End of report.
