@@ -1,0 +1,70 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 179
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 68
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-04 ; Times: 18
+	Date: 2019-04-23 ; Times: 25
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 3
+	Query: "Phyllomys brasiliensis mappable:1" ; Times: 3
+	Query: "Cerdocyon thous mappable:1" ; Times: 6
+	Query: "Speothos venaticus mappable:1" ; Times: 3
+	Query: "Molossops temminckii mappable:1" ; Times: 3
+	Query: "Cabassous tatouay mappable:1" ; Times: 4
+	Query: "specificepithet:tatouay genus:Cabassous" ; Times: 1
+	Query: "Lasiurus ega mappable:1" ; Times: 2
+	Query: "Callicebus personatus mappable:1" ; Times: 4
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 3
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 3
+	Query: "Marmosops incanus mappable:1" ; Times: 3
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "Calomys expulsus mappable:1" ; Times: 4
+	Query: "Calomys tener mappable:1" ; Times: 4
+	Query: "Akodon cursor mappable:1" ; Times: 3
+	Query: "Histiotus velatus mappable:1" ; Times: 3
+	Query: "Cabassous unicinctus mappable:1" ; Times: 6
+	Query: "Nectomys squamipes mappable:1" ; Times: 3
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 4
+	Query: "ku principalis" ; Times: 1
+	Query: "Dasypus hybridus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1263 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+
+
+End of report.
