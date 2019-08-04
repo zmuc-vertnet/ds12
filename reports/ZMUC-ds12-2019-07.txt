@@ -1,0 +1,50 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 172
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Speothos venaticus mappable:1" ; Times: 1
+	Query: "gbifdatasetid:84d8287e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 985 download events in this period)
+Total number of records downloaded: 179
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "country:&#34;brazil&#34; institutioncode:ZMUC" ; Times: 2
+	Query: "Desmodus rotundus" ; Times: 2
+
+
+End of report.
