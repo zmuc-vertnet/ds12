@@ -1,0 +1,60 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-26 ; Times: 9
+	Date: 2019-08-24 ; Times: 9
+	Date: 2019-08-05 ; Times: 4
+	Date: 2019-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 2
+	Query: "Cabassous tatouay mappable:1" ; Times: 2
+	Query: "Phyllomys brasiliensis mappable:1" ; Times: 2
+	Query: "Clyomys laticeps mappable:1" ; Times: 2
+	Query: "Clyomys laticeps" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "Cabassous unicinctus mappable:1" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Speothos venaticus mappable:1" ; Times: 2
+	Query: "Kunsia tomentosus mappable:1" ; Times: 2
+	Query: "Didelphis albiventris mappable:1" ; Times: 2
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "KU pv" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+
+
+End of report.
