@@ -1,0 +1,43 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Molossops temminckii" ; Times: 2
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 853 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+
+
+End of report.
