@@ -1,0 +1,50 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Denmark ; Times: 15
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-15 ; Times: 15
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Calomys expulsus" ; Times: 3
+	Query: "Akodon cursor" ; Times: 1
+	Query: "Kunsia tomentosus" ; Times: 1
+	Query: "Histiotus" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Carterodon sulcidens" ; Times: 2
+	Query: "Phyllomys brasiliensis" ; Times: 1
+	Query: "KU Dasypus" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 2
+	Query: "Clyomys laticeps" ; Times: 2
+	Query: "Thalpomys lasiotis" ; Times: 1
+	Query: "Nectomys squamipes" ; Times: 1
+	Query: "Calomys tener" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1367 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
