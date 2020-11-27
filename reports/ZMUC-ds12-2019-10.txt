@@ -1,0 +1,57 @@
+Report for Institution Code ZMUC, Resource ds12
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 58
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 43
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-29 ; Times: 36
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 5
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Thalpomys lasiotis" ; Times: 1
+	Query: "Canis vetulus" ; Times: 1
+	Query: "Phyllomys brasiliensis" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 46
+	Query: "specificepithet:venaticus family:Canidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1308 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllomys brasiliensis" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "Thalpomys lasiotis" ; Times: 1
+
+
+End of report.
